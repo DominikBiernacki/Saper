@@ -1,0 +1,12 @@
+Program działa na systemie Windows 10, być może na innych, ale nie było to testowane.
+
+Program po uruchomieniu wyświetli title screen i będzie oczekiwał na pierwszą komendę gracza.
+Wybranie E, M lub H rozpocznie grę na odpowiednim poziomie trudności,
+C pozwoli wybrać customowe wartości, a póżniej uruchomi grę, natomiast T
+wyświetli tutorial, a następnie ponownie wyświetli title screena.
+Po rozpoczęciu gry gracz zostanie poproszony o kolejne ruchy aż do zakończenia gry.
+Pierwszy ruch polega na wpisaniu współrzędnych, każdy kolejny na wybraniu trybu i współrzędnych.
+Tryby są dwa c (ang. check), który sprawdz dane pole (leftclick) oraz f (ang. flag), który oflaguje pole (rightclick).
+
+Program jest zabezpieczony na wszelkie błędne polecenia wpisane przez użytkownika,
+a interfejs pomaga domyślić sie co należy wpisywać.
